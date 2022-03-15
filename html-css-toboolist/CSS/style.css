@@ -21,3 +21,16 @@ h1 {
     display: inline-block;
     vertical-align: middle;
 }
+
+.contenitore-task {
+    width: 800px;
+    margin: 0 auto;
+    background-color: white;
+    margin-top: 50px;
+}
+
+.tag {
+        display: inline-block;
+        color: white;
+        border-radius: 10px;
+}
