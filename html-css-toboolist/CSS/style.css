@@ -6,6 +6,18 @@
 }
 
 body {background-color: lightgrey;
+}
 
+header {
+    padding: 20px;
+    background-color: white;
+}
 
+.logo {
+    vertical-align: middle;
+}
+
+h1 {
+    display: inline-block;
+    vertical-align: middle;
 }
