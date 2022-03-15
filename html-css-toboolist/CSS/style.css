@@ -5,6 +5,28 @@
     box-sizing: border-box;
 }
 
+.bottone1 {
+    background-color: #0066ff; 
+    color: white;
+    padding: 8px;
+    text-align: center;
+    display: inline-block;
+    font-size: 10px;
+    border-radius: 8px;
+  }
+
+  .bottone2 {
+    background-color: white; 
+    color: lightgray;
+    border: 1px solid lightgray;
+    border-color: lightgray;
+    padding: 8px;
+    text-align: center;
+    display: inline-block;
+    font-size: 10px;
+    border-radius: 8px;
+  }
+
 body {background-color: rgb(241, 241, 241);
     font-family: 'Roboto', sans-serif;
 }
