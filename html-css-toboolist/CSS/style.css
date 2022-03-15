@@ -38,11 +38,27 @@ h1 {
 }
 
 .tag-blu {
-    background-color: lightblue;
+    background-color: rgb(0, 191, 255);
 }
 
 .tag-viola {
-    background-color: purple;
+    background-color: rgb(119, 60, 173);
+}
+
+.tag-verdescuro {
+    background-color: green;
+}
+
+.tag-arancio {
+    background-color: orange;
+}
+
+.tag-rosa {
+    background-color: pink;
+}
+
+.tag-verdechiaro {
+    background-color: lightgreen;
 }
 
 .cerchietto-verde {
