@@ -46,12 +46,21 @@ h1 {
     vertical-align: middle;
 }
 
+.contenitore-bottoni {
+    width: 800px;
+    height: 100px;
+    margin: auto;
+    background-color: white;
+    margin-top: 50px;
+    
+}
+
 .contenitore-task {
     width: 800px;
     height: 550px;
     margin: auto;
     background-color: white;
-    margin-top: 50px;
+    margin-top: 5px;
     
 }
 
